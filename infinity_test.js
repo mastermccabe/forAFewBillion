@@ -8,10 +8,10 @@ function togetInfinity() {
 
     daysNeeded++;
 
-
+    //comment
   }
 
 
-  console.log("the amount of days to get infinity is " + daysNeeded);
+  console.log("the amount of days to get i  nfinity is " + daysNeeded);
 
 }
